@@ -8,3 +8,8 @@ In this notebook we:
 - specifically, we perform feature ablation to evaluate the predictive power of 7 sets of neuroimaging features by iteratively excluding them one at the time
 - use Mean Absolute Error (MAE) a metric for performance evaluation
 - visualize scatterplots of chronological age vs predicted age and illustrate the regression line
+
+##### Dependencies
+```
+pip install numpy pandas scikit-learn scipy matplotlib seaborn os-sys
+```
