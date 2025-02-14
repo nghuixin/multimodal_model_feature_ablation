@@ -11,5 +11,5 @@ In this notebook we:
 
 ##### Dependencies
 ```
-pip install numpy pandas scikit-learn scipy matplotlib seaborn os-sys
+pip install seaborn==0.13.2 pandas==2.2.1 numpy==1.26.4 matplotlib==3.8.3 scipy==1.11.4 scikit-learn==1.2.2
 ```
